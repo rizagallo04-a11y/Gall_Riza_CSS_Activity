@@ -1,0 +1,38 @@
+body {
+  font-family: serif;
+  margin: 20px;
+}
+
+h1 {
+  font-size: 28px;
+  margin-left: 20px;
+}
+
+.box {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  color: white;
+  
+  
+  box-sizing: border-box;
+  vertical-align: top;
+}
+
+.red {
+  background-color: red;
+  border: 3px solid white;
+  border-top: 10px;
+}
+
+.green {
+  background-color: green ;
+  border: 3px solid white;
+  border-top: 10px;
+}
+
+.blue {
+  background-color: blue;
+  border: 3px solid white;
+  border-top: 10px;
+}

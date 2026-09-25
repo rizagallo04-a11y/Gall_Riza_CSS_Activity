@@ -1,0 +1,32 @@
+body {
+  font-family: serif;
+  margin: 20px;
+}
+
+h1 {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.box {
+  display: block;
+  width: 200px;
+  height: 200px;
+  color: white;
+  
+  margin-bottom: 15px;
+  box-sizing: border-box;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+  height: 120px;
+}

@@ -1,0 +1,21 @@
+body {
+  background-color: #fbf0d9;
+  margin: 0;
+  padding: 20px;
+  font-family: serif;
+}
+
+h1 {
+  color: white;
+  margin: 15px 0;
+  padding: 10px 20px;
+  font-size: 40px;
+}
+
+.green-bg {
+  background-color: #8cb896;
+}
+
+.brown-bg {
+  background-color: #c88846;
+}

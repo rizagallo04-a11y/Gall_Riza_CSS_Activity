@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 20px;
+  background-color: #ffffff;
+  font-family: serif;
+}
+
+div {
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+.outer-box {
+  background-color: purple;
+}
+
+.middle-box {
+  background-color: blue;
+}
+
+.inner-box {
+  background-color: red;
+  margin-bottom: 10px;
+}
+
+.yellow-text {
+  color: yellow;
+  margin: 5px 0;
+  font-size: 20px;
+}
+
+.white-text {
+  color: white;
+  margin: 0;
+  font-size: 20px;
+}
